@@ -4,7 +4,7 @@
   "name": "MK ッ",
   "userimg": "https://avatars.githubusercontent.com/u/63323163?v=4",
   "sort": "updated",
-  "order": "asc",
+  "order": "desc",
   "includeFork": false,
   "theme": "dark.css",
   "types": [
