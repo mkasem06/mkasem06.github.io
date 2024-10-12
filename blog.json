@@ -4,13 +4,13 @@
   "title": "My boring life.",
   "sub_title": "Things about my boring life..",
   "top_image": "image.png",
-  "visible": true
+  "visible": false
  },
  {
   "url_title": "Exams",
   "title": "Exams 😢",
   "sub_title": "My upcoming exams..",
   "top_image": "image.png",
-  "visible": true
+  "visible": false
  }
 ]
